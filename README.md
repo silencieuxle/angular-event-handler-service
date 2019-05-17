@@ -19,7 +19,7 @@ import { Observable, Subject } from 'rxjs';
 * Simply download and copy the component to your Angular project.
 
 ## Usage
-### Import the component
+### Import the service
 
 - Import to the app.module
 
