@@ -36,7 +36,8 @@ import { Observable, Subject } from 'rxjs';
   bootstrap: [AppComponent]
 })
 ```
-### Use the slider in another component
+### Use the service
+- This service provides a simple way to publish and subscribe an event by name.
 - Inject the service to the component you want to use.
 
 ```
